@@ -1,3 +1,4 @@
+package Day_11;
 interface Camera{
     public void takeSnap();
 
